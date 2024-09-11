@@ -14,5 +14,10 @@ By consolidating this information into a single, user-friendly workbook, organiz
 •	An Active Azure Subscription
 •	An Active Sentinel Instance
 •	Sentinel Contributor Role
-•	Required data sources including Sign-in Logs, Audit Logs, Azure Activity and UEBA logs. 
+•	Required data sources including Sign-in Logs, Audit Logs, Azure Activity and UEBA logs.
+
+# Configure
+The following provides step-by-step instructions to deploy the Workbook:
+
+
 
