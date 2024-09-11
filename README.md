@@ -7,13 +7,18 @@ By consolidating this information into a single, user-friendly workbook, organiz
 
 # Business Requirements
 •	Detailed User Overview: The need to compile and visualize extensive information about user activities and attributes for enhanced monitoring and analysis.
+
 •	Behaviour Analysis: The requirement to track and assess user behaviour, including sign-in activities and role changes, to identify potential risks.
+
 •	Risk Management: Integration of risk status and recent incidents to provide a holistic view of user-related security concerns.
 
 # Prerequisites
 •	An Active Azure Subscription
+
 •	An Active Sentinel Instance
+
 •	Sentinel Contributor Role
+
 •	Required data sources including Sign-in Logs, Audit Logs, Azure Activity and UEBA logs.
 
 # Configure
