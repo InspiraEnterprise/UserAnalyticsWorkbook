@@ -60,5 +60,8 @@ The following provides step-by-step instructions to deploy the Workbook:
  
  • Select Save to Microsoft Sentinel or My Workbooks to choose the visibility of the workbook. Saving it to Sentinel will make it available to all users in the workspace.
 
+# Solution Insights: Workbook Visuals
+![image](https://github.com/user-attachments/assets/43872d7a-ba00-4e8b-8595-0e8da59062ee)
+
 
 
